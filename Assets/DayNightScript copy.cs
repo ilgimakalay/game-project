@@ -64,6 +64,8 @@ public class DayNightScript : MonoBehaviour
     {
         TrainEndObject.SetActive(buttonState);
     }
+    
+    
 
     private void StartTrainButtonEnabled(bool startButtonState)
     {
