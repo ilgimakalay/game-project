@@ -1,0 +1,4 @@
+repository "game-project@ilgimAkalay@cloud"
+  path "/"
+    br "/main"
+    co "/main"
