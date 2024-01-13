@@ -5312,15 +5312,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b412f3a0ffe2b4bca90f57a3910aeb06, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  hungry: {fileID: 1261710044}
+  energy: {fileID: 376604556}
   clock: {fileID: 666575499}
   day: {fileID: 994479701}
   agi: {fileID: 977982412}
   str: {fileID: 1875866582}
   sta: {fileID: 939935122}
-  hungry: {fileID: 1261710044}
-  energy: {fileID: 376604556}
-  TrainEnd: {fileID: 483502272}
   TrainStart: {fileID: 375693939}
+  TrainEndObject: {fileID: 483502268}
   tick: 48
   minutes: 0
   hours: 0
